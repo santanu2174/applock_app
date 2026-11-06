@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LockGuard Security</string>
+    <string name="device_admin_description">Enables hardware-level security, lock-task enforcement, and intrusion prevention.</string>
+    <string name="system_locked">SYSTEM LOCKED</string>
+    <string name="device_secured">DEVICE SECURED</string>
+    <string name="biometrics_suspended">Cooldown active - Biometrics suspended</string>
+    <string name="unlock_with_pin">Unlock with 6-digit PIN</string>
+    <string name="enter_master_pin">Enter Master Security PIN</string>
+    <string name="accessibility_service_description">Enables real-time instant application locking and biometric protection.</string>
+</resources>
+
